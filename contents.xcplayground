@@ -3,5 +3,7 @@
     <pages>
         <page name='merge sort'/>
         <page name='Insertion Sort'/>
+        <page name='Bubble Sort'/>
+        <page name='Linerar Search Algorithm'/>
     </pages>
 </playground>

@@ -64,7 +64,9 @@ func insertionGenericType<T>(_ array: [T], _ isOrderedOn: (T, T) -> Bool) -> [T]
 insertionGenericType(list, <)
 insertionGenericType(list, >)
 
-
+var string = ["a","d","g","r","f"]
+insertionGenericType(string, <)
+insertionGenericType(string, >)
 
 
 
