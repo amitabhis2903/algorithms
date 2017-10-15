@@ -5,5 +5,6 @@
         <page name='Insertion Sort'/>
         <page name='Bubble Sort'/>
         <page name='Linerar Search Algorithm'/>
+        <page name='Binary Search'/>
     </pages>
 </playground>

@@ -1,5 +1,4 @@
 
-import Foundation
 // Merge Sort
 
 //Sorting array low to high and high to lowand
